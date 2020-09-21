@@ -1,0 +1,75 @@
+body{
+	color: grey;
+	background-color: rgb(235,235,235);
+	font-family: 'Inter', sans-serif;
+}
+h1{
+	color: rgb(237,56,74);
+	font-weight: bold;
+}
+div{
+	box-shadow: 1px 2px 1px rgb(235,235,235);
+	margin: 20px auto;
+	padding: 20px 20px;
+	border-radius: 5px;
+}
+p{
+	font-size: 12px;
+	text-align: justify;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	width:100px;
+}
+a{
+ text-decoration: none;
+ color:rgb(235,235,235);
+}
+li a:hover {
+  color: grey;
+}
+a:visited {
+  color: rgb(235,235,235);
+}
+#pic{
+	border: solid 3px rgb(235,235,235);
+	border-radius: 50%;
+	max-width: 30%;
+}
+#bouton{
+	background-color: rgb(237,56,74);
+	color: white;
+	border-radius: 5px;
+	padding:10px;
+}
+.fisrt{
+	background-color: white;
+	width: 400px;
+	text-align: center;
+	margin-top: 30px;
+}
+.gras{
+	font-weight: bold;
+	padding: 0;
+}
+.lien{
+	background-color: white;
+	width: 400px;
+	text-align: center;}
+.film{
+	background-color: white;
+	width: 400px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.littlebox{
+	box-shadow: none;
+}
+.littlebox img{
+	text-align: left;
+	max-width: 20%;
+	float: left;
+	vertical-align: middle;
+	padding:18px;
+}
